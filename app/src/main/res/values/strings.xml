@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">1318073</string>
+    <string name="followers">FOLLOWERS</string>
+    <string name="following">FOLLOWING</string>
+    <string name="Email_Address">Email Address</string>
+    <string name="Phone_Numbers">Phone Numbers</string>
+    <string name="Instagram">Instagram</string>
+    <string name="Discord">Discord</string>
+    <string name="Language">Language</string>
+    <string name="Alamat">Jombang, East Java, Indonesia</string>
+
 </resources>

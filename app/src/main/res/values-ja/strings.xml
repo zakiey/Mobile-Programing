@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">1318073</string>
+    <string name="followers">フォロワー</string>
+    <string name="following">以下</string>
+    <string name="Email_Address">電子メールアドレス</string>
+    <string name="Phone_Numbers">電話番号</string>
+    <string name="Instagram">インスタグラム</string>
+    <string name="Discord">不和</string>
+    <string name="Language">言語</string>
+    <string name="Alamat">ジョンバン、東ジャワ、インドネシア</string>
+</resources>

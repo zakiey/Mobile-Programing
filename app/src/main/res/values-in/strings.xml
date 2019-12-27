@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">1318073</string>
+    <string name="followers">PENGIKUT</string>
+    <string name="following">MENGIKUTI</string>
+    <string name="Email_Address">Alamat Email</string>
+    <string name="Phone_Numbers">Nomor Telepon</string>
+    <string name="Instagram">Instagram</string>
+    <string name="Discord">Discord</string>
+    <string name="Language">Bahasa</string>
+    <string name="Alamat">Jombang, Jawa Timur, Indonesia</string>
+</resources>
